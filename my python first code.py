@@ -1,1 +1,0 @@
-print("nanna hesaru: mahesh ")
